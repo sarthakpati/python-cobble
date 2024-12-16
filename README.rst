@@ -7,13 +7,10 @@ including implementations of common methods such as ``__eq__`` and ``__repr__``.
 Installation
 ------------
 Using pip:
-```bash
-pip install cobble
-```
+``pip install cobble``
+
 Alternatively, using conda:
-```bash
-conda install cobble
-```
+``conda install cobble``
 
 Examples
 --------
