@@ -4,6 +4,17 @@ Cobble
 Cobble is a Python library that allows easy creation of data objects,
 including implementations of common methods such as ``__eq__`` and ``__repr__``.
 
+Installation
+------------
+Using pip:
+```bash
+pip install cobble
+```
+Alternatively, using conda:
+```bash
+conda install cobble
+```
+
 Examples
 --------
 
